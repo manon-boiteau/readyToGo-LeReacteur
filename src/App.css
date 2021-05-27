@@ -6,12 +6,16 @@
 * {
   box-sizing: border-box;
 }
+body {
+  font-family: "Anonymous Pro", monospace;
+}
 .wrapper {
   margin: 0 auto;
   width: 90vw;
 }
 button {
   border: none;
+  font-family: "Anonymous Pro", monospace;
 }
 button:focus {
   outline: none;
@@ -23,7 +27,7 @@ button:hover {
 a {
   text-decoration: none;
   color: black;
-  font-weight: bold;
+  font-weight: 700;
 }
 a:hover {
   background-color: white;
@@ -70,6 +74,7 @@ main .wrapper {
   padding: 30px;
   border-radius: 10px;
   box-shadow: 2px 2px 10px #000000;
+  font-weight: 700;
 }
 
 /* Footer */

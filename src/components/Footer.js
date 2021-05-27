@@ -10,7 +10,7 @@ const Footer = () => {
         >
           Manon
         </a>
-        &nbsp; for&nbsp;
+        &nbsp;for&nbsp;
         <a href="https://www.lereacteur.io/" target="_blank" rel="noreferrer">
           Le Réacteur
         </a>

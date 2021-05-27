@@ -32,7 +32,7 @@ function App() {
                   width: 200,
                 }}
               >
-                Go go go!
+                Goooo!
               </button>
             ) : (
               <button
